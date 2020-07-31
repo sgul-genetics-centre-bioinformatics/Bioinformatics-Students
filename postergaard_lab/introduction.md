@@ -38,3 +38,11 @@ There still remain numerous Primary Lymphoedema patients where a genetic cause i
 ## Lipoedema
 
 The Lymphovascular Research Group at St George's has had an interest in lipoedema for a number of years as many cases are seen in our primary lymphoedema clinic. There is often a family history of lipoedema, suggesting a genetic origin, but the level of genetic heterogeneity is currently unclear. Many sporadic cases have also been ascertained, and it seems likely that there is a more complex background to the disease than single gene Mendelian inheritance. The present hypothesis from our group is that there is a genetic component to lipedema, and it is this hypothesis that we wish to investigate further.
+    
+**Lipoedema Stages**
+  
+<img src="https://www.leslynkeith.com/images/lipedema-stages.jpg" alt="drawing">
+    
+**Lipoedema vs Lymphoedema**
+  
+<img src="https://www.swfhealthandwellness.com/wp-content/uploads/2018/12/Lipedema-vs.-Lymphedema.jpg" alt="drawing">
