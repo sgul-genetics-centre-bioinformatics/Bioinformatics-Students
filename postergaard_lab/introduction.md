@@ -48,9 +48,9 @@ The Lymphovascular Research Group at St George's has had an interest in lipoedem
 <img src="https://www.swfhealthandwellness.com/wp-content/uploads/2018/12/Lipedema-vs.-Lymphedema.jpg" alt="drawing">
 
 ## What are we trying to do?
-We have a rich repository of blood samples from Primary Lymphoedema and Lipoedema patients and sometimes their families. We perform Whole Exome Sequencing and Whole Genome Sequencing on these samples and after carefull data analysis we are trying to identify human genetic variations that might be causing these inherited conditions in the under-investigation patients.
+We have a rich repository of blood samples from Primary Lymphoedema and Lipoedema patients and sometimes their families. We perform Whole Exome Sequencing and Whole Genome Sequencing on these samples and after careful data analysis we are trying to identify human genetic variations that might be causing these inherited conditions in the under-investigation patients.
 
-Example:
+### Example:
 This is family A. The father and one of the children have [Yellow Nail Syndrome](https://en.wikipedia.org/wiki/Yellow_nail_syndrome) which is a very rare **autosomal dominant** medical syndrome that includes pleural effusions, lymphedema (due to under development of the lymphatic vessels) and yellow dystrophic nails.
   
 <img src="https://github.com/sgul-genetics-centre-bioinformatics/Bioinformatics-Students/blob/master/postergaard_lab/images/pedig.png" alt="drawing">
