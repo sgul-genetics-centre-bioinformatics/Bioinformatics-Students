@@ -16,7 +16,7 @@ What do we do?
 ## Primary Lymphoedema 
 
 Lymphatic malformation or dysfunction can lead to Primary Lymphoedema, which is an inherited form of this disorder. Primary Lymphoedema is clinically and genetically heterogeneous and is caused by defects in the lymphatic system that lead to swelling of one or more limbs or other parts of the body. It is a rare disorder (1 in 6000) and in the more extreme forms can increase mortality, especially in infants.
-![alt text](https://www.mayoclinic.org/-/media/kcms/gbs/patient-consumer/images/2013/11/15/17/42/ds00186_-ds00350_-ds00351_-my00828_-my01271_im04253_mcdc7_lymphatic_systemthu_jpg.jpg "The Lymphatic System")
+![alt text](https://www.mayoclinic.org/-/media/kcms/gbs/patient-consumer/images/2013/11/15/17/42/ds00186_-ds00350_-ds00351_-my00828_-my01271_im04253_mcdc7_lymphatic_systemthu_jpg.jpg "The Lymphatic System" width=50)
 
 Lymphoedema is a lifelong, often disabling condition associated with a high morbidity with distressing swelling of the affected limbs, recurrent cellulitis, discomfort and significant skin changes. Treatment is limited to compression garments and manual lymphatic drainage. Many patients find Primary Lymphoedema debilitating, embarrassing, stressful and painful leading to considerable psychological morbidity.
 
