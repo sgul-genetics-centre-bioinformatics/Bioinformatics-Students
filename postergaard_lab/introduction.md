@@ -52,4 +52,13 @@ We have a rich repository of blood samples from Primary Lymphoedema and Lipoedem
 
 Example:
 This is family A. The father and one of the children have [Yellow Nail Syndrome](https://en.wikipedia.org/wiki/Yellow_nail_syndrome) which is a very rare **autosomal dominant** medical syndrome that includes pleural effusions, lymphedema (due to under development of the lymphatic vessels) and yellow dystrophic nails.
+  
+<img src="https://github.com/sgul-genetics-centre-bioinformatics/Bioinformatics-Students/blob/master/postergaard_lab/images/pedig.png" alt="drawing">
+  
+We want to identify the genetic cause for this inherited condition in this family. To do that we perform Whole Exome Sequencing on all family members and we try to identify human genetic variants (Single Nucleotide Polymporphisms SNPs - Small Indels - Larger Chromosomal Abberations). Since it is an autosomal dominant condition we expect that the affected father and affected daughter will probably share the same mutated allele compared to the unaffected mother and daughter which will probably share the wild-type allele.
 
+Having this in mind we can filter the variant data and find our candidate variants for this family.
+
+Similar strategy can be applied to 
+- Singletons: In this case it's harder to filter the candidate causal variants since we don't have anaffected family members to compare against
+- Larger families: In this case we have more family members that will share mutated or wild-type alleles and therefore will be easier to end-up with a more realistic list of candidate variants.
