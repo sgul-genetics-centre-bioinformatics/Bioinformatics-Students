@@ -12,5 +12,4 @@
 - [SGUL Genetics Centre Bioinformatics](https://github.com/sgul-genetics-centre-bioinformatics)
 
 ## Video Resources:
-
-[![Watch the video](https://www.youtube.com/watch?v=fCd6B5HRaZ8)
+[![llumina Sequencing by Synthesis](https://res.cloudinary.com/marcomontalbano/image/upload/v1596465741/video_to_markdown/images/youtube--fCd6B5HRaZ8-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=fCd6B5HRaZ8 "llumina Sequencing by Synthesis")
